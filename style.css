@@ -1,0 +1,13 @@
+.navbar-brand {
+color: gray;
+}
+
+.allcards {
+    display:flex;
+justify-content: space-evenly;
+}
+.button {
+    display:flex;
+    margin: 5px;
+    justify-content: right;
+}
